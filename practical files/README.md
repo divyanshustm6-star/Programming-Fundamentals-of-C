@@ -67,6 +67,53 @@ PRACTICAL 21 :A fitness app stores walking distance (in km) for 30 days. Write a
               
 PRACTICAL 22 :A teacher records the attendance of a student for 30 days. Input ‘1’ for present and ‘0’ for absent. Count the total present days. 
                Expected Output: Day 1 (1=Present, 0=Absent): 1 Day 2 (1=Present, 0=Absent): 0 Day 3 (1=Present, 0=Absent): 1 ... Total present days = 22 
- 
+
+PRACTICAL 23 :Write a C program to print following pattern using asterisk (*):
+              (a) Rectangle with 7 columns and 4 rows.
+              (b) A square with 4 columns and 4 rows.
+              (c) A right-angle triangle with 5 columns and 5 rows.
+              (d) A reverse right-angle triangle with 5 columns and 5 rows.
+              (e) A central triangle with 5 columns and 5 rows.   
+
+PRACTICAL 24 :Write a C program that displays a menu asking the user to print a multiplication table or exit.
+              If the user presses 1, the program should take a number and display its table from 1 to 10;
+              if the user presses 0, the program should exit.
+              (a) Using While.
+              (b) Using Do While.
+PRACTICAL 25 :Write a C program that prints the weekly lecture schedule for six days (Monday to Saturday).
+              (a) Using Switch Case or if else condition.
+              (b) Taking input from user and display schedule as per user input.
+               (Take input from 1 to 6)
+
+PRACTICAL 26 :Write a C program to find factorial of a number using function.
+
+PRACTICAL 27 :Write a C program to find square of a number using function.
+
+PRACTICAL 28 :Write a C program to find largest number among three number using function.
+
+PRACTICAL 29 :Write a C program using function that reads marks from the user, computes the total and average, and outputs the grade based on the average.
+              Grade A: average >= 90
+              Grade B: 80 <= average < 90
+              Grade C: 70 <= average < 80
+              Grade D: 60 <= average < 70
+              Grade F: average < 60
+
+PRACTICAL 30 :30. Write a C program that uses a user-defined function to swap two numbers using call by reference. The function should take the addresses of the variables as parameters and modify their values. 
+
+PRACTICAL 31 :Write a C program to find the maximum of two numbers using a function that accepts pointer arguments.
+
+PRACTICAL 32 :Write a C program that performs addition, subtraction, multiplication, and division of two numbers using a function with call by reference.
+
+PRACTICAL 33 :Write a C program to calculate the factorial of a number using a function that returns the result through call by reference.
+
+PRACTICAL 34 :Write a C program to read 5 integers into an array and print them.
+
+PRACTICAL 35 :Write a program to store n numbers in an array and find their sum.
+
+PRACTICAL 36 :Write a program to delete an element from a specified position in an array.
+
+PRACTICAL 37 :Write a C program to search for a given number in an array using linear search.
+
+PRACTICAL 38 :Write a C program to sort the elements of an array in ascending order.
  
  
